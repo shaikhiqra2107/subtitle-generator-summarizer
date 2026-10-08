@@ -1,0 +1,1 @@
+This lecture introduces basic concepts of machine learning, including how algorithms learn from data and common applications in modern technology.

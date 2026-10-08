@@ -1,0 +1,1 @@
+This is a sample transcript for lecture 2. It explains basic concepts of machine learning and artificial intelligence.
